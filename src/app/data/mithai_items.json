@@ -1,0 +1,82 @@
+{
+  "mithai": [
+    {
+      "id": 1,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "title": "Rajasthani Laddu",
+      "description": "besan wala laddu",
+      "rate_per_kg": 460,
+      "ingradient": "Desi Ghee, Chini, Besan"
+    },
+    {
+      "id": 3,
+      "title": "Milk cake",
+      "description": "Dark Khoya, Milk cake",
+      "rate_per_kg": 600,
+      "ingradient": "Khoya, Chini, Desi Ghee"
+    },
+    {
+      "id": 4,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini"
+    },
+    {
+      "id": 5,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini"
+    },
+    {
+      "id": 6,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini"
+    },
+    {
+      "id": 7,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini"
+    },
+    {
+      "id": 8,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini"
+    },
+    {
+      "id": 9,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini"
+    },
+    {
+      "id": 10,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini"
+    },
+    {
+      "id": 11,
+      "title": "Khoya Barfi",
+      "description": "Khoya Barfi",
+      "rate_per_kg": 560,
+      "ingradient": "Khoya, Chini"
+    }
+  ]
+}
